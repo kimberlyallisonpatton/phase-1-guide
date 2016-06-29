@@ -41,32 +41,32 @@
 
 ## Weekly Cadence
 
-- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Thursday
-- Engineering Empathy (EE): Tuesday at 10am
+- Yoga: mandatory once per week, classes available 12:30pm - 1:15pm on Tuesday
+- Engineering Empathy (EE): Tuesday at 11am
   - Week 1 - The Empathic Team
   - Week 1 - Introverts & Extroverts, Friday at 9:15am
   - Week 2 - The Inner Critic
   - Week 3 - Empathy and Authenticity
 - Careers:
   - Week 2 & 3: 1:1s with students (you must [sign up](http://bit.ly/24KtYGE) signup for a slot!)
-- Improv Experience: Week 2, Tuesday at 6pm
 - Assessment: Week 3, Wednesday
-  - "The Challenge" - 8:15am - 11:45am
-  - "Code Review" - 20 minute blocks starting 1:10pm
+  - "The Challenge" - 9:15am - 12:45pm
+  - "Code Review" - 20 minute blocks starting 2:10pm
 
 ## Daily Cadence
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with accountability buddies
-8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin (or following yoga at 9:10am)
-8:25am  | Challenges/Breakouts
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Challenges/Breakouts
-5:00pm  | End of core hours
-5:00pm  | After hours learning/mentoring/solo time
+8:45am  | Check in with accountability buddies
+9:00am  | Morning Announcements
+9:05am  | Daily Progress Checkin
+9:25am  | Challenges/Breakouts
+12:30pm | Lunch
+2:00pm  | Afternoon Announcements
+2:05pm  | Challenges/Breakouts
+5:40pm  | Daily Progress Checkout
+6:00pm  | End of core hours
+6:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
