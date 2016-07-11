@@ -1,5 +1,7 @@
 # Phase 1 Guide
 
+[Groups](wiki/Groups)
+
 ## Course Outline
 
 <table>
