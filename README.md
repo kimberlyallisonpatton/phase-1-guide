@@ -1,6 +1,6 @@
 # Phase 1 Guide
 
-[Groups](wiki/Groups)
+[Groups](../../wiki/Groups)
 
 ## Course Outline
 
